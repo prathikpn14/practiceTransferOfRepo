@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-22T15:45:12 IST" name="Suite" finished-at="2026-09-22T15:45:12 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2026-09-22T15:45:12 IST" name="Test" finished-at="2026-09-22T15:45:12 IST" duration-ms="54">
+      <class name="demopackage2.DemoOrg">
+        <test-method signature="m2()[pri:0, instance:demopackage2.DemoOrg@5e82df6a]" started-at="2026-09-22T15:45:12 IST" name="m2" finished-at="2026-09-22T15:45:12 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method signature="m3()[pri:0, instance:demopackage2.DemoOrg@5e82df6a]" started-at="2026-09-22T15:45:12 IST" name="m3" finished-at="2026-09-22T15:45:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- demopackage2.DemoOrg -->
+      <class name="demopackage1.DemoContact">
+        <test-method signature="m1()[pri:0, instance:demopackage1.DemoContact@31368b99]" started-at="2026-09-22T15:45:12 IST" name="m1" finished-at="2026-09-22T15:45:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- demopackage1.DemoContact -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
