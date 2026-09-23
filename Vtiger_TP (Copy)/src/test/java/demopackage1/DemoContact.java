@@ -9,7 +9,7 @@ public class DemoContact {
 	{
 		String URL = System.getProperty("url" , "www.amazon.com");
 		String BROWSER = System.getProperty("browser" , "firefox");
-		String USERNAME = System.getProperty("username" , "");
+		String USERNAME = System.getProperty("username" , "yoyo");
 		String PASSWORD = System.getProperty("password" , "paasword");
 		
 		System.out.println(URL);
